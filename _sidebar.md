@@ -6,8 +6,8 @@
   * [Giới thiệu](introduction.md)
   * [Quick Start](quickstart.md)
   * [Kiến trúc](architecture.md)
-  * [User Guide](../USER_GUIDE.md)
-  * [Admin Guide](../ADMIN_GUIDE.md)
+  * [📖 Hướng dẫn User](user-guide.md)
+  * [⚙️ Hướng dẫn Admin](admin-guide.md)
 
 * **Deployment**
   * [Deployment Guide](deployment.md)
